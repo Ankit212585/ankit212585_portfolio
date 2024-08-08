@@ -392,7 +392,7 @@ section .title::after {
 
 .services .serv-content .card i {
     font-size: 50px;
-    color: #888e8d;
+    color: #fff;
     background: linear-gradient(135deg, #041d3d, #fff, crimson);
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
